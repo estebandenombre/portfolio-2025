@@ -44,7 +44,7 @@ const timeline: Timeline = {
             "Mención de Alto Rendimiento Académico",
             "TFG: Sistema de Localización Híbrido (Calificación 10/10)"
           ],
-          date: "2018 - 2022",
+          date: "2020 - 2024",
           logo: "/placeholder.svg?height=100&width=100"
         },
         {
@@ -55,7 +55,7 @@ const timeline: Timeline = {
             "FAU clasificada en el Top 50 mundial en Ingeniería de Telecomunicaciones (Shanghai Subject Ranking 2024)",
             "Reconocida como una de las 10 mejores universidades en Alemania en 17 disciplinas, incluida Telecomunicaciones"
           ],
-          date: "2021",
+          date: "2023- 2024",
           logo: "/placeholder.svg?height=100&width=100"
         }
       ]
