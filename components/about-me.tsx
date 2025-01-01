@@ -89,8 +89,8 @@ const timeline: Timeline = {
         {
           title: "Idiomas",
           description: "Inglés (C1), Francés (A2), Alemán (A2)",
-          details: "Experiencia profesional en entornos multiculturales",
-          date: "Continuo",
+          details: "",
+          date: "",
           logo: "/placeholder.svg?height=100&width=100"
         }
       ]
@@ -188,8 +188,8 @@ const timeline: Timeline = {
         {
           title: "Languages",
           description: "English (C1), French (A2), German (A2)",
-          details: "Professional experience in multicultural environments",
-          date: "Ongoing",
+          details: "",
+          date: "",
           logo: "/placeholder.svg?height=100&width=100"
         }
       ]

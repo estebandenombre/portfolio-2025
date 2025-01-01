@@ -47,7 +47,7 @@ export function Navigation() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="text-2xl font-bold text-[#343a40] dark:text-[#f8f9fa] hover:text-[#212529] dark:hover:text-[#e9ecef] transition-colors">
-            Esteban Ortiz - TechEngineer
+            Esteban Ortiz Vicente
           </Link>
 
           {/* Desktop Navigation */}
